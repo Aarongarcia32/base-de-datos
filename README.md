@@ -1,13 +1,11 @@
-###  Base de Datos
 
-<p>
-Propósito:
-</p>
+  # smart tube prototipo
 
-- Albergar el modelo logico y fisico
+  This is a code bundle for smart tube prototipo. The original project is available at https://www.figma.com/design/d3segp44781iZGwXqXGva1/smart-tube-prototipo.
 
-- Guardar archivos SQL
+  ## Running the code
 
-- Tener un registro de versiones documentadas
+  Run `npm i` to install the dependencies.
 
-***
+  Run `npm run dev` to start the development server.
+  
